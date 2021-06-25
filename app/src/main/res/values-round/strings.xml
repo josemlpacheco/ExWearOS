@@ -1,0 +1,7 @@
+<resources>
+    <string name="reply_label">My reply</string>
+    <string name="reply_was">Reply was</string>
+    <string-array name="reply_choices">
+        <item>SMS</item>
+    </string-array>
+</resources>

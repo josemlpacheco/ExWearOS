@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MobileApp</string>
+    <string name="notify_me">Notify me</string>
+    <string name="notification_details">Notification details</string>
+    <string name="reply_label_mobile">My reply</string>
+    string[]
+    <string name="reply_was">Reply was</string>
+    <string name="voice_input">Send SMS</string>
+    <string-array name="reply_choices">
+        <item>SMS</item>
+    </string-array>
+</resources>
